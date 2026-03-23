@@ -1,4 +1,4 @@
-# Vikas Gupta
+# Vikas Gupta | [LinkedIn](https://www.linkedin.com/in/vikas-gupta-158478107/)
 Experimental physicist with 5+ years in precision instrumentation and data analysis, working at CERN, Nikhef, and TU Munich on some of the largest and most sensitive particle detectors ever built to answer questions about the origin and composition of the universe. 
 
 ## Projects
@@ -53,5 +53,5 @@ Python · NumPy · Matplotlib · DAQ<br>
 </table>
 
 ## Publications
-[JINST 2025](https://iopscience.iop.org/article/10.1088/1748-0221/20/05/C05033) · [Nature Physics 2022](https://www.nature.com/articles/s41567-021-01463-1) · [LinkedIn](https://www.linkedin.com/in/vikas-gupta-158478107/)
+[JINST 2025](https://iopscience.iop.org/article/10.1088/1748-0221/20/05/C05033) · [Nature Physics 2022](https://www.nature.com/articles/s41567-021-01463-1) 
 
