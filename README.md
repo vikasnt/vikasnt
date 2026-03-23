@@ -15,7 +15,7 @@ channel in a 1-kilotonne detector at CERN.
 </td>
 <td>
 Python · C++ · ROOT · scikit-learn<br>
-<a href="link">→ Analysis code</a>
+<a href="https://github.com/vikasnt/protodune-analysis">→ Analysis code</a>
 </td>
 </tr>
 
@@ -30,7 +30,7 @@ detector at CERN, equivalent to years of deep-underground operation.
 </td>
 <td>
 Python · NumPy · Matplotlib<br>
-<a href="link">→ Analysis code</a>
+<a href="https://github.com/vikasnt/pen-study">→ Analysis code</a>
 </td>
 </tr>
 
@@ -46,7 +46,7 @@ simulation models for DUNE.
 </td>
 <td width="35%">
 Python · NumPy · Matplotlib · DAQ<br>
-<a href="link">→ Analysis code</a>
+<a href="https://github.com/vikasnt/vulcan">→ Analysis code</a>
 </td>
 </tr>
 
