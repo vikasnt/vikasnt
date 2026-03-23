@@ -6,7 +6,7 @@ Experimental physicist with 5+ years in precision instrumentation and data analy
 | | | |
 |---|---|---|
 | ![VULCAN](vulcan_daq.png) | **VULCAN** | Optical characterisation of detector materials at deep UV wavelengths |
-| ![ProtoDUNE](protodune_event.pdf) | **ProtoDUNE Analysis** | Particle reconstruction and cross-section measurement in a 1-kilotonne detector |
+| ![ProtoDUNE](protodune_cern.png) | **ProtoDUNE Analysis** | Particle reconstruction and cross-section measurement in a 1-kilotonne detector |
 | ![PEN](dewar_cage.png) | **PEN Study** | Long-term stability of a novel detector coating in cryogenic conditions |
 
 ## Publications
