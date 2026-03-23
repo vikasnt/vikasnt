@@ -1,15 +1,13 @@
 # Vikas Gupta
-
-Experimental physicist. Five years building detectors and analysing data 
-for DUNE, a next-generation neutrino experiment at CERN and Fermilab.
+Experimental physicist with 5+ years in precision instrumentation and data analysis, working on some of the largest and most sensitive particle detectors ever built, at CERN, Nikhef, and TU Munich.
 
 ## Projects
 
-| | |
-|---|---|
-| **VULCAN** | Optical characterisation of detector materials at deep UV wavelengths |
-| **ProtoDUNE Analysis** | Particle reconstruction and cross-section measurement in a 1-kilotonne detector |
-| **PEN Study** | Long-term stability of a novel detector coating in cryogenic conditions |
+| | | |
+|---|---|---|
+| ![VULCAN](vulcan_daq.png) | **VULCAN** | Optical characterisation of detector materials at deep UV wavelengths |
+| ![ProtoDUNE](protodune_event.pdf) | **ProtoDUNE Analysis** | Particle reconstruction and cross-section measurement in a 1-kilotonne detector |
+| ![PEN](dewar_cage.png) | **PEN Study** | Long-term stability of a novel detector coating in cryogenic conditions |
 
 ## Publications
 [JINST 2025](link) · [Nature Physics 2022](link) · [LinkedIn](link)
