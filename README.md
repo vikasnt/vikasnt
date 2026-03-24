@@ -52,6 +52,4 @@ Python · NumPy · Matplotlib · DAQ<br>
 
 </table>
 
-## Publications
-[JINST 2025](https://iopscience.iop.org/article/10.1088/1748-0221/20/05/C05033) · [Nature Physics 2022](https://www.nature.com/articles/s41567-021-01463-1) 
 
