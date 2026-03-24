@@ -14,7 +14,7 @@ Particle reconstruction and first measurement of a pion interaction
 channel in a 1-kilotonne detector at CERN.
 </td>
 <td>
-Python · C++ · ROOT · scikit-learn<br>
+Python · NumPy · SciPy · Matplotlib · Shapely<br>
 <a href="https://github.com/vikasnt/protodune-analysis">→ Analysis code</a>
 </td>
 </tr>
