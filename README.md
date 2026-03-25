@@ -3,37 +3,32 @@ Experimental physicist with 5+ years in precision instrumentation and data analy
 
 ## Projects
 <table>
-
 <tr>
 <td align="center">
 <img src="protodune.png" width="200px">
 </td>
 <td>
 <b>ProtoDUNE Analysis</b><br>
-Particle reconstruction and first measurement of a pion interaction 
-channel in a 1-kilotonne detector at CERN.
+Neutral pion reconstruction in an 800-tonne liquid argon detector at CERN. CNN-based shower identification and invariant mass reconstruction recover the π⁰ mass peak at 135 MeV, validating the shower energy reconstruction and analysis pipeline on 1 GeV pion beam data.
 </td>
 <td>
 Python · NumPy · SciPy · Matplotlib · Shapely<br>
 <a href="https://github.com/vikasnt/protodune-analysis">→ Analysis code</a>
 </td>
 </tr>
-
 <tr>
 <td align="center">
 <img src="dewar_cage.png" width="200px">
 </td>
 <td>
-<b>PEN Study</b><br>
-Long-term stability of a novel detector coating in a 2-tonne cryogenic 
-detector at CERN, equivalent to years of deep-underground operation.
+<b>PEN Wavelength Shifter Characterisation</b><br>
+Daily alpha and muon light yield tracking in a 2-tonne cryogenic detector at CERN over 12 days, with argon purity correction via triplet lifetime monitoring. Spatial scan data compared to GEANT4 simulation constrains PEN wavelength-shifting efficiency to 45–58%, supporting its use in future large-scale liquid argon detectors.
 </td>
 <td>
-Python · NumPy · Matplotlib<br>
+Python · NumPy · Matplotlib · uproot · lmfit · numba<br>
 <a href="https://github.com/vikasnt/pen-study">→ Analysis code</a>
 </td>
 </tr>
-
 <tr>
 <td width="25%" align="center">
 <img src="vulcan_daq.png" width="200px">
@@ -49,7 +44,5 @@ Python · NumPy · Matplotlib · DAQ<br>
 <a href="https://github.com/vikasnt/vulcan">→ Analysis code</a>
 </td>
 </tr>
-
 </table>
-
 
