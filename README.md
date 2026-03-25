@@ -29,20 +29,20 @@ Python · NumPy · Matplotlib · uproot · lmfit · numba<br>
 <a href="https://github.com/vikasnt/pen-study">→ Analysis code</a>
 </td>
 </tr>
+
 <tr>
 <td width="25%" align="center">
 <img src="vulcan_daq.png" width="200px">
 </td>
 <td width="40%">
-<b>VULCAN</b><br>
-Measured how detector materials reflect light at vacuum UV wavelengths 
-where standard tools don't work. Results directly informed detector 
-simulation models for DUNE.
+<b>VULCAN — VUV Reflectometry at Nikhef</b><br>
+Custom vacuum ultraviolet reflectometry setup built at Nikhef to characterise detector materials at 122–230 nm — wavelengths inaccessible to standard spectrophotometers. Measured reflectivity of an aluminium sample at the 128 nm argon scintillation wavelength (~3%), directly informing photon transport simulations for DUNE for accurate modeling.
 </td>
 <td width="35%">
-Python · NumPy · Matplotlib · DAQ<br>
+Python · NumPy · Matplotlib · SciPy · strax<br>
 <a href="https://github.com/vikasnt/vulcan">→ Analysis code</a>
 </td>
 </tr>
+
 </table>
 
